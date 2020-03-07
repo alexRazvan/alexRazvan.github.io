@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "af69bb82ff41d2857c0658e26a39670c",
+    "revision": "c8e897740255a9743b268ad7b1c50f46",
     "url": "/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/css/2.400f043a.chunk.css"
   },
   {
-    "revision": "4d4894cc8f1b0dab1dc0",
+    "revision": "c2dc596cc8de129a951b",
     "url": "/static/css/main.4b4fe295.chunk.css"
   },
   {
@@ -20,16 +20,16 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/static/js/2.87b57f09.chunk.js.LICENSE"
   },
   {
-    "revision": "4d4894cc8f1b0dab1dc0",
-    "url": "/static/js/main.53dfa391.chunk.js"
+    "revision": "c2dc596cc8de129a951b",
+    "url": "/static/js/main.81a7dfa9.chunk.js"
   },
   {
     "revision": "134855254689e79d8b4f",
     "url": "/static/js/runtime-main.8fbb6f31.js"
   },
   {
-    "revision": "b5d35ef24f8ea04e48eea9c7c7359a3b",
-    "url": "/static/media/bricks.b5d35ef2.jpg"
+    "revision": "d6bdb22e3c68b77073b5ba5fdeb4128b",
+    "url": "/static/media/bricks.d6bdb22e.jpg"
   },
   {
     "revision": "c087a5a0e3546c04fde2ef1dba103784",
