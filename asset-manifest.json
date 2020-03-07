@@ -1,34 +1,31 @@
 {
   "files": {
-    "main.css": "/static/css/main.e4c4bb93.chunk.css",
-    "main.js": "/static/js/main.9848d011.chunk.js",
-    "main.js.map": "/static/js/main.9848d011.chunk.js.map",
+    "main.css": "/static/css/main.4b4fe295.chunk.css",
+    "main.js": "/static/js/main.53dfa391.chunk.js",
+    "main.js.map": "/static/js/main.53dfa391.chunk.js.map",
     "runtime-main.js": "/static/js/runtime-main.8fbb6f31.js",
     "runtime-main.js.map": "/static/js/runtime-main.8fbb6f31.js.map",
     "static/css/2.400f043a.chunk.css": "/static/css/2.400f043a.chunk.css",
-    "static/js/2.4c5064cb.chunk.js": "/static/js/2.4c5064cb.chunk.js",
-    "static/js/2.4c5064cb.chunk.js.map": "/static/js/2.4c5064cb.chunk.js.map",
+    "static/js/2.87b57f09.chunk.js": "/static/js/2.87b57f09.chunk.js",
+    "static/js/2.87b57f09.chunk.js.map": "/static/js/2.87b57f09.chunk.js.map",
     "index.html": "/index.html",
-    "precache-manifest.15b719c5cdc2448d6dab1ae15aef9067.js": "/precache-manifest.15b719c5cdc2448d6dab1ae15aef9067.js",
+    "precache-manifest.88ff636a52114b37c1cc7e24ce5d81c4.js": "/precache-manifest.88ff636a52114b37c1cc7e24ce5d81c4.js",
     "service-worker.js": "/service-worker.js",
     "static/css/2.400f043a.chunk.css.map": "/static/css/2.400f043a.chunk.css.map",
-    "static/css/main.e4c4bb93.chunk.css.map": "/static/css/main.e4c4bb93.chunk.css.map",
-    "static/js/2.4c5064cb.chunk.js.LICENSE": "/static/js/2.4c5064cb.chunk.js.LICENSE",
-    "static/media/bricks.jpg": "/static/media/bricks.cd12baae.jpg",
-    "static/media/creativeLida.jpg": "/static/media/creativeLida.4effd28b.jpg",
+    "static/css/main.4b4fe295.chunk.css.map": "/static/css/main.4b4fe295.chunk.css.map",
+    "static/js/2.87b57f09.chunk.js.LICENSE": "/static/js/2.87b57f09.chunk.js.LICENSE",
+    "static/media/bricks.jpg": "/static/media/bricks.b5d35ef2.jpg",
+    "static/media/creativeLida.jpg": "/static/media/creativeLida.c087a5a0.jpg",
     "static/media/creativeLida.png": "/static/media/creativeLida.f231b4bb.png",
-    "static/media/default-user.png": "/static/media/default-user.237aabf8.png",
     "static/media/font-awesome.min.css": "/static/media/fontawesome-webfont.fee66e71.woff",
-    "static/media/profile1.jpg": "/static/media/profile1.8916b79c.jpg",
-    "static/media/profile1.png": "/static/media/profile1.bc9f8fa8.png",
     "static/media/resume_Lutai_Razvan_03.pdf": "/static/media/resume_Lutai_Razvan_03.dd770768.pdf",
-    "static/media/yana.png": "/static/media/yana.1caded04.png"
+    "static/media/yana.png": "/static/media/yana.32c561d3.png"
   },
   "entrypoints": [
     "static/js/runtime-main.8fbb6f31.js",
     "static/css/2.400f043a.chunk.css",
-    "static/js/2.4c5064cb.chunk.js",
-    "static/css/main.e4c4bb93.chunk.css",
-    "static/js/main.9848d011.chunk.js"
+    "static/js/2.87b57f09.chunk.js",
+    "static/css/main.4b4fe295.chunk.css",
+    "static/js/main.53dfa391.chunk.js"
   ]
 }
